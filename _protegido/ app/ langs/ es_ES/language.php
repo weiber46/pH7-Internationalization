@@ -10,7 +10,7 @@ namespace PH7;
 
 defined('PH7') or exit('Restricted access');
 
-Framework\Registry\Registry::getInstance()->lang = [
+Framework\Registry\Registry::getInstance()->lang = [https://github.com/pH7Software/pH7-Internationalization/blob/0c37ef81dfaf792549d53676a41431f3ab388221/_protected/app/langs/es_ES/language.php#L47
 
     /***** COUNTRIES *****/
     '' => '-- Select --',
