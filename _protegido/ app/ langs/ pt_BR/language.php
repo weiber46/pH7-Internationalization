@@ -11,6 +11,8 @@ namespace PH7;
 defined('PH7') or exit('Restricted access');
 
 Framework\Registry\Registry::getInstance()->lang = [
+        pH7-Internacionalização / _protected / app / langs / pt_BR /language.php
+      
 
     /***** COUNTRIES *****/
     '' => '-- Select --',
